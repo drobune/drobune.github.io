@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://yu1h1.github.io/sitemap.xml 
+Sitemap: http://yu1ch1.github.io/sitemap.xml 
